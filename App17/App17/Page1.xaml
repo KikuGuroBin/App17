@@ -14,6 +14,8 @@
                   Text="\n"
                   BackgroundColor="Blue"
                   HeightRequest="100" />
+          <local:MyImage x:Name="MyImage"
+                         Source="+_parts.png"/>
         </StackLayout>
   </ContentView.Content>
 </ContentView>
