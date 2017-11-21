@@ -12,6 +12,7 @@ using Xamarin.Forms.Platform.iOS;
 using App17;
 using App17.iOS;
 
+//
 [assembly:ExportRenderer(typeof(MyImage), typeof(MyImageRenderer))]
 namespace App17.iOS
 {
